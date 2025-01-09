@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there, my name is Antoni Nikolov 👋
+I am a 3rd year student at Fontys University of Applied Sciences studying Software Engineering.
 
-<!--
-**a-niko22/a-niko22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently looking to secure an internship for February to June 2025
+- 📫 How to reach me: in/antoni-nikolov-b4b050338
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Skills
+Programming Languages: Java, C#, Kotlin, Dart, Python
+• Web Development: JavaScript, React, HTML, CSS
+• Desktop Development: WinForms
+• DevOps Tools: Docker, Git, SonarQube, Jira
+• Testing Tools: Postman, SonarQube
+• Databases: MySQL, Microsoft SQL Server, PostgreSQL
+• Software: Visual Studio Code (VSCode), Visual Studio, IntelliJ IDEA, Android Studio
+• Programming Paradigms: Object-Oriented Programming (OOP), Functional
