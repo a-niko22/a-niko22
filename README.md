@@ -12,4 +12,4 @@ I am a 3rd year student at Fontys University of Applied Sciences studying Softwa
 - Testing Tools: Postman, SonarQube
 - Databases: MySQL, Microsoft SQL Server, PostgreSQL
 - Software: Visual Studio Code (VSCode), Visual Studio, IntelliJ IDEA, Android Studio
-- Programming Paradigms: Object-Oriented Programming (OOP), Functional
+- Programming Paradigms: Object-Oriented Programming (OOP), Functional Programming
