@@ -4,7 +4,7 @@ I am a 3rd year student at Fontys University of Applied Sciences studying Softwa
 - 🔭 I’m currently looking to secure an internship for February to June 2025
 - 📫 How to reach me: in/antoni-nikolov-b4b050338
 
-#Skills
+# Skills
 Programming Languages: Java, C#, Kotlin, Dart, Python
 • Web Development: JavaScript, React, HTML, CSS
 • Desktop Development: WinForms
