@@ -2,6 +2,7 @@
 I am a 3rd year student at Fontys University of Applied Sciences studying Software Engineering.
 
 - 🔭 I’m currently looking to secure an internship for February to June 2025
+- 🤝 I am eager to contribute my technical skills and collaborate with others in a team
 - 📫 How to reach me: in/antoni-nikolov-b4b050338
 
 # Skills
