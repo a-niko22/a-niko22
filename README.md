@@ -4,6 +4,7 @@ I am a 3rd year student at Fontys University of Applied Sciences studying Softwa
 
 
 ### Skills
+<pre>
 Programming Languages:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -49,3 +50,4 @@ Software:
 Programming Paradigms:
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF9800?style=flat)
 ![Functional Programming](https://img.shields.io/ba)
+</pre>
