@@ -44,17 +44,17 @@ Skills
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF9800?style=flat)
 ![Functional Programming](https://img.shields.io/ba)
 
-Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-Software:
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### Software
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-Programming Paradigms:
-![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-FF9800?style=for-the-badge)
-![Functional Programming](https://img.shields.io/badge/-Functional%20Programming-9C27B0?style=for-the-badge)
+### Programming Paradigms
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF9800?style=flat)
+![Functional Programming](https://img.shields.io/badge/Functional%20Programming-9C27B0?style=flat)
