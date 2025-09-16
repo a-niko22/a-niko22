@@ -3,7 +3,7 @@ I am a 3rd year student at Fontys University of Applied Sciences studying Softwa
 - How to reach me: in/antoni-nikolov-b4b050338
 
 ### Skills
-## Programming Languages
+# Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
