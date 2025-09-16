@@ -36,7 +36,7 @@ Software:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) <br />
 Programming Paradigms:
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF9800?style=flat)
-![Functional Programming](https://img.shields.io/ba) <br />
+![Functional Programming](https://img.shields.io/badge/Functional%20Programming-9C27B0?style=flat) <br />
 Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
@@ -48,4 +48,4 @@ Software:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) <br />
 Programming Paradigms:
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF9800?style=flat)
-![Functional Programming](https://img.shields.io/ba)
+![Functional Programming](https://img.shields.io/badge/Functional%20Programming-9C27B0?style=flat)
