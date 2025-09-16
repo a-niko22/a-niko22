@@ -1,4 +1,4 @@
-## Hello there, my name is Antoni Nikolov
+## Hello, my name is Antoni Nikolov
 I am a 3rd year student at Fontys University of Applied Sciences studying Software Engineering.
 - How to reach me: in/antoni-nikolov-b4b050338
 
