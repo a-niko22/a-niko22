@@ -1,5 +1,7 @@
 ## Hello, my name is Antoni Nikolov
-I am a 3rd year student at Fontys University of Applied Sciences studying Software Engineering.
+I am a 4th year student at Fontys University of Applied Sciences studying Software Engineering.
+I'm currently in Semester 7 where I'm working with AI models / AI intgration.
+
 - How to reach me: in/antoni-nikolov-b4b050338
 
 
